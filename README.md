@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Create_a_clean_mode" src="https://github.com/user-attachments/assets/882f68d2-c323-473e-a8f8-1b01b21dc2fc" />
+
 # LEA-Cu-Mg Hyper-Alloy | Master Architecture 2026
 **Architect:** Emanuel Schaaf 🏛️
 **Status:** PROJECT - OPEN SOURCE | Official Release
